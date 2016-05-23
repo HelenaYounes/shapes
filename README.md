@@ -5,7 +5,7 @@ Initialize Directories
 ---
 ```bash
 # (mkdir = make directory)
-mkdir classes dist
+mkdir classes dist src
 ```
 
 Compile
